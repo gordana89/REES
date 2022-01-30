@@ -9,7 +9,6 @@ namespace ResidentExecutor
     public class Area : ViewModelBase
     {
         private string name;
-        private int number;
         private string code;
 
         public string Name 
