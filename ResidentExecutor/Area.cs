@@ -10,7 +10,7 @@ namespace ResidentExecutor
     {
         private string name;
         private string code;
-        private int number;
+        
 
         public string Name 
         {
